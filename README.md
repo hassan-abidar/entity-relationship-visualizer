@@ -1,6 +1,7 @@
 # Entity Relationship Visualizer for Spring Boot
 
-![ER Diagram Example](target/entity-diagram.png)
+<img width="1705" height="2523" alt="image" src="https://github.com/user-attachments/assets/093fe4c7-1478-4d70-a331-3d2f5cea9ad0" />
+
 
 Automatically generate clean, modern, Figma-style Entity Relationship Diagrams (ERDs) from your Spring Boot JPA entities.
 
